@@ -28,6 +28,7 @@ You can edit the `iframe.codepicnic-embed-iframe` rule in the `codepicnic.css` f
 
 1. Embed CodePicnic consoles using the editor's button with the CodePicnic icon
 2. Paste a console's URL in the editor to automatically embed it
+3. Use the `embed` shortcode to embed a console in the editor using Text mode
 
 == Changelog ==
 
