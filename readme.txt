@@ -1,4 +1,5 @@
 === Plugin Name ===
+Contributors: codepicnic
 Tags: embed, developer tools, code
 Requires at least: 3.9.0
 Tested up to: 4.7
@@ -15,7 +16,7 @@ CodePicnic allows developers show full-stack code environments to edit and run c
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress
+2. Activate the plugin through the 'Plugins' screen in WordPress.
 
 == Frequently Asked Questions ==
 
