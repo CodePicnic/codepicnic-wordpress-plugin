@@ -3,7 +3,7 @@
 Plugin Name: CodePicnic
 Plugin URI:  https://developer.wordpress.org/plugins/codepicnic/
 Description: Embed your CodePicnic consoles using the editor and oEmbed
-Version:     1.0
+Version:     1.1
 Author:      CodePicnic
 Author URI:  https://codepicnic.com/
 License:     GPL2
@@ -30,6 +30,7 @@ function codepicnic_register_tinymce_plugin($plugins) {
 }
 
 wp_oembed_add_provider('codepicnic.com/consoles/*', 'https://codepicnic.com/oembed');
+wp_oembed_add_provider('codp.in/c/*', 'https://codepicnic.com/oembed');
 
 add_editor_style(plugins_url('css/codepicnic.css', __FILE__));
 

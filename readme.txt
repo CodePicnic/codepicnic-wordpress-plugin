@@ -32,5 +32,8 @@ You can edit the `iframe.codepicnic-embed-iframe` rule in the `codepicnic.css` f
 
 == Changelog ==
 
+= 1.1 =
+* Add support for shortened URLs in visual editor
+
 = 1.0 =
 * Initial release
